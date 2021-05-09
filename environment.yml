@@ -1,0 +1,9 @@
+name: is445-final
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - pip:
+    - bqplot
+    - plotly
+    - ipywidgets
